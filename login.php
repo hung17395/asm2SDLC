@@ -158,6 +158,7 @@ if (isset($_SESSION["userName"])) {
 	</style>
 </head>
 <body>
+	<h1>duong da chinh sua</h1>
 	<?php include('element/navbar.php') ?>
 	<div class="gird-login container-fluid">
 		<div class="row">
